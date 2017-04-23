@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ludumdareprealpha.unity
+  isLoaded: 1
+  isActive: 1
