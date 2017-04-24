@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: e471da43ae160eb478c9ab817fc9eea1
+timeCreated: 1493015625
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KidneyLevelSpriteSheet_0
+    21300002: KidneyLevelSpriteSheet_1
+    21300004: KidneyLevelSpriteSheet_2
+    21300006: KidneyLevelSpriteSheet_3
+    21300008: KidneyLevelSpriteSheet_4
+    21300010: KidneyLevelSpriteSheet_5
+    21300012: KidneyLevelSpriteSheet_6
+    21300014: KidneyLevelSpriteSheet_7
+    21300016: KidneyLevelSpriteSheet_8
+    21300018: KidneyLevelSpriteSheet_9
+    21300020: KidneyLevelSpriteSheet_10
+    21300022: KidneyLevelSpriteSheet_11
+    21300024: KidneyLevelSpriteSheet_12
+    21300026: KidneyLevelSpriteSheet_13
+    21300028: KidneyLevelSpriteSheet_14
+    21300030: KidneyLevelSpriteSheet_15
+    21300032: KidneyLevelSpriteSheet_16
+    21300034: KidneyLevelSpriteSheet_17
+    21300036: KidneyLevelSpriteSheet_18
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 380
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 734
+        width: 279
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 506
+        width: 164
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 513
+        width: 121
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 472
+        width: 157
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 471
+        width: 151
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 514
+        width: 149
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 621
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 257
+        width: 300
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 530
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 285
+        width: 301
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 292
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 229
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 9
+        width: 214
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 300
+        width: 53
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 238
+        width: 70
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 76
+        width: 121
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 65
+        width: 155
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KidneyLevelSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 43
+        width: 250
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

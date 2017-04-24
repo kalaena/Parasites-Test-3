@@ -42,3 +42,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3492356541
+    locked: 0
+  - name: Details
+    uniqueID: 2097867731
+    locked: 0
+  - name: Boundaries
+    uniqueID: 490300115
+    locked: 0
+  - name: Overlayer
+    uniqueID: 547803809
+    locked: 0
